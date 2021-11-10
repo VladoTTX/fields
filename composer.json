@@ -1,16 +1,16 @@
 {
     "require": {
-        "php": "^7.2",
-        "symfony/yaml": "^4.4"
+        "php": ">=7.4",
+        "symfony/yaml": "^5.4"
     },
     "require-dev": {
         "atoum/atoum": "^3.1",
-        "glpi-project/tools": "^0.1"
+        "glpi-project/tools": "^0.4"
     },
     "config": {
         "optimize-autoloader": true,
         "platform": {
-            "php": "7.2.0"
+            "php": "7.4.0"
         },
         "sort-packages": true
     }
